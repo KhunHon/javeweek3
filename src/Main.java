@@ -8,6 +8,7 @@ public class Main {
         int e = 8; // 0000 1000
         int f = 8; // 0000 1000
         int val;
+
         String name = "Mark";
 
         boolean result = name instanceof  String;
